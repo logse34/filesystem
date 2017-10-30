@@ -1,0 +1,70 @@
+[
+	{
+		"id": "0001",
+		"type": "donut",
+		"name": "Bolo",
+		"ppu": 0.55,
+		"batters":
+			{
+				"batter":
+					[
+						{ "id": "1001", "type": "Regular" },
+						{ "id": "1002", "type": "Chocolate" },
+						{ "id": "1003", "type": "Mirtilo" },
+						{ "id": "1004", "type": "Comida do diabo" }
+					]
+			},
+		"topping":
+			[
+				{ "id": "5001", "type": "Nenhum" },
+				{ "id": "5002", "type": "Vidros" },
+				{ "id": "5005", "type": "Açúcar" },
+				{ "id": "5007", "type": "Açúcar em pó" },
+				{ "id": "5006", "type": "Chocolate com granulado" },
+				{ "id": "5003", "type": "Chocolate" },
+				{ "id": "5004", "type": "Maple" }
+			]
+	},
+	{
+		"id": "0002",
+		"type": "donut",
+		"name": "Erguido",
+		"ppu": 0.55,
+		"batters":
+			{
+				"batter":
+					[
+						{ "id": "1001", "type": "Regular" }
+					]
+			},
+		"topping":
+			[
+				{ "id": "5001", "type": "Nenhum" },
+				{ "id": "5002", "type": "Vidros" },
+				{ "id": "5005", "type": "Açúcar" },
+				{ "id": "5003", "type": "Chocolate" },
+				{ "id": "5004", "type": "Maple" }
+			]
+	},
+	{
+		"id": "0003",
+		"type": "donut",
+		"name": "À moda antiga",
+		"ppu": 0.55,
+		"batters":
+			{
+				"batter":
+					[
+						{ "id": "1001", "type": "Regular" },
+						{ "id": "1002", "type": "Chocolate" }
+					]
+			},
+		"topping":
+			[
+				{ "id": "5001", "type": "Nenhum" },
+				{ "id": "5002", "type": "Vidros" },
+				{ "id": "5003", "type": "Chocolate" },
+				{ "id": "5004", "type": "Maple" }
+			]
+	}
+]
