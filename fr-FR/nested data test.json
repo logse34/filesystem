@@ -1,0 +1,70 @@
+[
+	{
+		"id": "0001",
+		"type": "Donut",
+		"name": "Gâteau",
+		"ppu": 0.55,
+		"batters":
+			{
+				"batter":
+					[
+						{ "id": "1001", "type": "Régulière" },
+						{ "id": "1002", "type": "Chocolat" },
+						{ "id": "1003", "type": "Myrtille" },
+						{ "id": "1004", "type": "Nourriture du diable" }
+					]
+			},
+		"topping":
+			[
+				{ "id": "5001", "type": "Aucun (e)" },
+				{ "id": "5002", "type": "Vitré" },
+				{ "id": "5005", "type": "Sucre" },
+				{ "id": "5007", "type": "Sucre en poudre" },
+				{ "id": "5006", "type": "Chocolat avec pépites" },
+				{ "id": "5003", "type": "Chocolat" },
+				{ "id": "5004", "type": "Érable" }
+			]
+	},
+	{
+		"id": "0002",
+		"type": "Donut",
+		"name": "Déclenché",
+		"ppu": 0.55,
+		"batters":
+			{
+				"batter":
+					[
+						{ "id": "1001", "type": "Régulière" }
+					]
+			},
+		"topping":
+			[
+				{ "id": "5001", "type": "Aucun (e)" },
+				{ "id": "5002", "type": "Vitré" },
+				{ "id": "5005", "type": "Sucre" },
+				{ "id": "5003", "type": "Chocolat" },
+				{ "id": "5004", "type": "Érable" }
+			]
+	},
+	{
+		"id": "0003",
+		"type": "Donut",
+		"name": "Old-Fashioned",
+		"ppu": 0.55,
+		"batters":
+			{
+				"batter":
+					[
+						{ "id": "1001", "type": "Régulière" },
+						{ "id": "1002", "type": "Chocolat" }
+					]
+			},
+		"topping":
+			[
+				{ "id": "5001", "type": "Aucun (e)" },
+				{ "id": "5002", "type": "Vitré" },
+				{ "id": "5003", "type": "Chocolat" },
+				{ "id": "5004", "type": "Érable" }
+			]
+	}
+]
