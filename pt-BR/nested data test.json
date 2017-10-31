@@ -16,7 +16,7 @@
 			},
 		"topping":
 			[
-				{ "id": "5001", "type": "Estrela de inverno" },
+				{ "id": "5001", "type": "Nenhum" },
 				{ "id": "5002", "type": "Vidros" },
 				{ "id": "5005", "type": "Açúcar" },
 				{ "id": "5007", "type": "Açúcar em pó" },
