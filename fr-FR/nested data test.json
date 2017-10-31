@@ -16,7 +16,7 @@
 			},
 		"topping":
 			[
-				{ "id": "5001", "type": "Star de l’hiver" },
+				{ "id": "5001", "type": "Aucun (e)" },
 				{ "id": "5002", "type": "Vitré" },
 				{ "id": "5005", "type": "Sucre" },
 				{ "id": "5007", "type": "Sucre en poudre" },
